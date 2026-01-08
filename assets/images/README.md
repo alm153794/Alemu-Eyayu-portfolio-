@@ -3,7 +3,7 @@
 Place your profile picture and other images here.
 
 ## Recommended Image Formats:
-- Profile picture: `profile.jpg` or `profile.png` (500x500px recommended)
+- Profile picture: `picture.jpg` or `picture.png` (500x500px recommended)
 - Project images: `project1.jpg`, `project2.jpg`, etc.
 - Icons: SVG format preferred
 
